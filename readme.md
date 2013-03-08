@@ -11,4 +11,5 @@ A Mootool that makes a wave with animating the letter spacing
 ## Enjoy
 
 Thanks for using,
+
 Wolfgang Drescher
